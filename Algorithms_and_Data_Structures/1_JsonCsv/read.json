@@ -1,0 +1,13 @@
+{
+    "name": "Diana",
+    "age": 24,
+    "isStudent": false,
+    "courses": [
+        "Literature",
+        "Philosophy"
+    ],
+    "address": {
+        "city": "Boston",
+        "zipcode": "02101"
+    }
+}

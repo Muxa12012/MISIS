@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Eve",
+        "age": 22,
+        "isStudent": true,
+        "address": {
+            "city": "Miami",
+            "zipcode": "33101"
+        }
+    },
+    {
+        "name": "Frank",
+        "age": 23,
+        "isStudent": false,
+        "address": {
+            "city": "Seattle",
+            "zipcode": "98101"
+        }
+    }
+]

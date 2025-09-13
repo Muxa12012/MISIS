@@ -1,0 +1,22 @@
+[
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "year_published": 1859
+    },
+    {
+        "title": "The Little Prince (Le Petit Prince)",
+        "author": "Antoine de Saint-Exupéry",
+        "year_published": 1943
+    },
+    {
+        "title": "The Alchemist (O Alquimista)",
+        "author": "Paulo Coelho",
+        "year_published": 1988
+    },
+    {
+        "title": "A Tale of Three Cities",
+        "author": "Charles Dickens",
+        "year_published": 1869
+    }
+]
